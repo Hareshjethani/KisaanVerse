@@ -156,7 +156,7 @@ KisaanVerse ka main goal hai:
 
 ## 👨‍💻 Author
 
-Your Name
+Haresh kumar
 
 ---
 
